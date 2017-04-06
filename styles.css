@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+    color: #909090;
+}
+h1 {
+    color: #000;
+}
+div {
+    padding: 5px;
+}
+#container {
+    padding: 20px;
+    background-color: #EDEDED;
+    border-radius: 5px;
+    border-right: 2px solid #CCC;
+    border-bottom: 2px solid #CCC;
+    width: auto;
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+    width: 100%;
+}
+#btn-submit{
+    width: 100px;
+    background: #ff652f;
+    color: #fff;
+    border-width: 1px;
+    text-shadow: 0 -1px 0 #c83400;
+}
+#btn-submit:hover {
+    background-color: #ff5216;
+}
+.input-warning {
+    background-color: #ffb3d1;
+    border: 1px solid red;
+    color: red;
+}
